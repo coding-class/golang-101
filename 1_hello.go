@@ -11,5 +11,5 @@ import (
 func main() {
 	// fungsi Println di-import dari paket fmt
 	// fungsi yang di-import harus diawali dengan huruf besar
-	fmt.Println("Hello, world!")
+	fmt.Println("Hello, Tokopedia!")
 }
