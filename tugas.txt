@@ -1,0 +1,19 @@
+Buatlah program yang menghasilkan output seperti berikut:
+1. Menggunakan Pengulangan
+1 2 3 
+4 5 6
+7 8 9
+
+2. Menggunakan Pengulangan & Pengkondisian
+*
+**
+***
+****
+*****
+
+3. Menggunakan Pengulangan & Pengkondisian
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
